@@ -1,1 +1,1 @@
-# gitRepo
+# gitRepo IDEA使用GitHub
